@@ -1,4 +1,4 @@
-💼 Bulletin Board – Job Market Portal Project Explanation 
+## 💼 Bulletin Board – Job Market Portal Project Explanation 
 
 Bulletin Board is a simple job portal web application where employers can post jobs and users can browse or apply.
 It is built using modern enterprise architecture patterns in the .NET ecosystem.
